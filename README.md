@@ -89,4 +89,4 @@ This is a Gigabit Ethernet transceiver with GPIO interface. It provides network 
 | dev_board_top.SchDoc            | MrDoomsday                                  |   ✅   | - |
 | ethernet.SchDoc                 | MrDoomsday                                  |   ✅   | - |
 | power.SchDoc                    | Nikilo13                                    |   ✅   | Nikilo13: разработать схему питания
-| board.PcbDoc                    | Nikilo13, saziliya2003-rgb                  |   ❌   | - |
+| board.PcbDoc                    | Nikilo13, saziliya2003-rgb, MrDoomsday      |   ❌   | - |
